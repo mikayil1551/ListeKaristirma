@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\bin\Debug\ListeKaristirma.exe.config
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\bin\Debug\ListeKaristirma.exe
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\bin\Debug\ListeKaristirma.pdb
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.exe
+C:\Users\User\Desktop\YenidenC#\4.17.2021\ListeKaristirma\ListeKaristirma\obj\Debug\ListeKaristirma.pdb
